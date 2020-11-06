@@ -1,0 +1,18 @@
+html {
+    font-family: 'Open Sans';
+    background-color: #292C2F;
+}
+.heading {
+    font-size: large;
+    padding: 25px;
+    color: white;
+}
+.texteditor {
+    padding: 5px;
+    font-weight: lighter;
+    font-size: 14px;
+    color: white;
+}
+div:focus {
+    outline: none;
+}
