@@ -23,7 +23,12 @@ Nice! Now type
 ### USING THE SHELL FILE  
 Scroll down to the Linux shell file instructions  
 ## Installing - Linux  
-Pretty easy. Git pull, cd, and shell file.  
-`git pull https://github.com/Litbelb-development/clack.git`  
-`cd Clack`
-
+Pretty easy. Git pull, cd, and python.  
+`git clone https://github.com/Litbelb-development/clack.git`  
+`cd clack`  
+`cd Clack`  
+`python clack.py`
+##### NOTE: CLACK CURRENTLY DOES NOT WORK ON COMMAND-LINE-ONLY LINUX.
+### USING THE SHELL FILE
+You shouldn't need to move any files. Just type  
+`sh ./launch.sh`  
