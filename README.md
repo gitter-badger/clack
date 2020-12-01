@@ -1,5 +1,5 @@
 # clack  
-Clack is a modern text editor, built with Python, HTML & CSS, and JavaScript.  
+Clack is a modern text editor, built with Python  
   
 ## Installing - Windows  
 First, you obvioulsly gotta have Python installed. Get it [here](https://www.python.org/downloads/), if you don't already.  
