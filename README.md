@@ -23,5 +23,7 @@ Nice! Now type
 ### USING THE SHELL FILE  
 Scroll down to the Linux shell file instructions  
 ## Installing - Linux  
-Pretty easy. Git pull, cd, and shell file.
-`git pull `
+Pretty easy. Git pull, cd, and shell file.  
+`git pull https://github.com/Litbelb-development/clack.git`  
+`cd Clack`
+
