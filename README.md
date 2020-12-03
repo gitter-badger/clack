@@ -30,7 +30,7 @@ Pretty easy. Git pull, cd, and python.
 `python clack.py`
 ##### NOTE: CLACK CURRENTLY DOES NOT WORK ON COMMAND-LINE-ONLY LINUX.
 ### USING THE SHELL FILE
-Just type the following:
+Just type the following:  
 `cd clack`  
 `chmod +x launch.sh`  
 `./launch.sh`  
