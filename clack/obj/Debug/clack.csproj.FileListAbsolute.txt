@@ -1,0 +1,10 @@
+C:\Users\darth\source\repos\clack\clack\bin\Debug\clack.exe.config
+C:\Users\darth\source\repos\clack\clack\bin\Debug\clack.exe
+C:\Users\darth\source\repos\clack\clack\bin\Debug\clack.pdb
+C:\Users\darth\source\repos\clack\clack\obj\Debug\clack.csprojAssemblyReference.cache
+C:\Users\darth\source\repos\clack\clack\obj\Debug\clack.Properties.Resources.resources
+C:\Users\darth\source\repos\clack\clack\obj\Debug\clack.csproj.GenerateResource.cache
+C:\Users\darth\source\repos\clack\clack\obj\Debug\clack.csproj.CoreCompileInputs.cache
+C:\Users\darth\source\repos\clack\clack\obj\Debug\clack.exe
+C:\Users\darth\source\repos\clack\clack\obj\Debug\clack.pdb
+C:\Users\darth\source\repos\clack\clack\obj\Debug\clack.Clack.resources
